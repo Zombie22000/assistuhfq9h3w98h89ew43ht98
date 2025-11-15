@@ -1,4 +1,4 @@
 <text> text <text>
 <hyperlinkname=example>https://www.example.com<hyperlinkname=example>
 <code=html> <text> hello </text> <code=html>
-<random> <random_1> <text> this is random 1 <text> <random_1> <random_2> <text> random 2 <text> <random_2>
+<random> <random_1> <text> this is random 1 <text> <random_1> <random_2> <text> random 2 <text> <random_2> <random>
